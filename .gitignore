@@ -6,3 +6,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Mac useless file
+**/.DS_Store
